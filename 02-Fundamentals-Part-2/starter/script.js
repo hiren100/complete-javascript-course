@@ -1,10 +1,10 @@
 'use strict';
 
 
-// function fruitProcessor(apples, oranges) {
-//   const juice = `Juice with ${apples} apples and ${oranges} oranges.`;
-//   return juice;
-// }
+function fruitProcessor(apples, oranges) {
+  const juice = `Juice with ${apples} apples and ${oranges} oranges.`;
+  return juice;
+}
 
 // console.log(fruitProcessor(20, 50))
 // console.log(fruitProcessor(35, 6))
