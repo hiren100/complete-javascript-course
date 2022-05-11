@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+
+    .bg-img{
+      background-repeat: no-repeat;
+      background-size: contain;
+      width: 400px;
+      height: 200px;
+      margin:30px auto;
+    }
+    img{
+      object-fit: contain;
+      max-width: 100%;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="bg-img"></div>
+  <img alt="" class="img"/>
+  
+</body>
+<script>
+
+  var images = [
+  "pexels-martin-damboldt-814499.jpg",
+  "https://picsum.photos/seed/picsum/200/300",
+  "new_wave_349.11851914512914.png"
+  ];
+
+  const x = images.length;
+
+  // const randomeNo = Math.trunc(Math.random() * x + 1);
+
+
+  const divBg = document.querySelector('.bg-img');
+ 
+
+  const imageLoad = function(){
+    let randomeNo = Math.trunc(Math.random() * x + 1);
+    divBg.style.backgroundImage = "url("+ images[randomeNo - 1] + ")";
+  }
+  window.onload = (event) => {
+     //document.querySelector(".img").src = images[randomeNo - 1];
+     //body.style.backgroundImage = "url("+ images[randomeNo - 1] + ")"
+     setInterval(imageLoad, 1500);
+  };
+
+</script>
+</html>
