@@ -546,6 +546,6 @@ console.log(okayEatsDogs)
 
 // sort it by recommended food portion in an ascending order [1,2,3]
 const dogsSorted = dogs.slice().sort((a, b) => a.recFood - b.recFood);
-console.log(dogsSorted);
+console.log(dogsSorted); 
 
 
