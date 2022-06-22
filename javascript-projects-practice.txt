@@ -1,3 +1,10 @@
 https://www.youtube.com/watch?v=dtKciwk_si4&t=23844s
 
 https://www.youtube.com/watch?v=8GPPJpiLqHk
+
+https://egghead.io/q/react - react short courses
+
+https://egghead.io/lessons/css-create-a-basic-responsive-grid-system-with-css-grid
+
+
+https://medium.com/@akankshasingh872/javascript-important-interview-topics-64095b43b5b0
