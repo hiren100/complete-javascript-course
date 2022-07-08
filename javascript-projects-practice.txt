@@ -8,3 +8,15 @@ https://egghead.io/lessons/css-create-a-basic-responsive-grid-system-with-css-gr
 
 
 https://medium.com/@akankshasingh872/javascript-important-interview-topics-64095b43b5b0
+
+
+https://dev.to/lawanu/javascipt-project-using-crud-operations-3805 - simple/basic
+
+
+https://medium.com/@saduniudeshika/javascript-closure-arrow-function-callbacks-promises-async-await-7e37aa4a94f0
+
+
+https://medium.com/@mspatheja/callback-promises-async-await-the-difference-9d1fca06546
+
+
+https://www.freecodecamp.org/news/what-are-functions-in-javascript-a-beginners-guide/
